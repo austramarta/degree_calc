@@ -1,0 +1,10 @@
+.button {
+  width: 40rem;
+}
+
+#loading {
+  display: none;
+}
+#results {
+  display: none;
+}
